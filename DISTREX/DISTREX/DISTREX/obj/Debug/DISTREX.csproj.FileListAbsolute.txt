@@ -1,0 +1,10 @@
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.csproj.AssemblyReference.cache
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.csproj.SuggestedBindingRedirects.cache
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.Properties.Resources.resources
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.csproj.GenerateResource.cache
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.csproj.CoreCompileInputs.cache
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\bin\Debug\DISTREX.exe.config
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\bin\Debug\DISTREX.exe
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\bin\Debug\DISTREX.pdb
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.exe
+D:\DSA\Final-Term-\DISTREX\DISTREX\DISTREX\obj\Debug\DISTREX.pdb
